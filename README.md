@@ -47,7 +47,3 @@ mvn clean compile exec:java -Dexec.mainClass="com.example.App"
 - Création des tables H2 en mémoire selon chaque stratégie
 - Affichage des requêtes SQL générées par Hibernate
 - Récupération polymorphique des entités via JPQL
-
-## Lien GitHub
-> **TODO** : Remplacer par votre lien de dépôt GitHub après avoir poussé le projet.
-> Exemple : `https://github.com/votre-username/hibernate-inheritance`
